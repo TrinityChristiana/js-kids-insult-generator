@@ -1,1 +1,3 @@
-# js-kids-insult-generator
+# JS Kids Insult Generator
+
+
